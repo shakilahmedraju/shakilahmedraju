@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a results-oriented Full Stack Developer with **5+ years of experience** building scalable web applications and robust API ecosystems. I combine deep backend expertise in **Django** and **FastAPI** with modern frontend development using **React** and **Redux**. Currently exploring the intersection of web development with **Data Science**, **Machine Learning**, and **AI** to build intelligent, data-driven solutions.
+I'm a results-oriented Full Stack Developer with **3+ years of experience** building scalable web applications and robust API ecosystems. I combine deep backend expertise in **Django** and **FastAPI** with modern frontend development using **React** and **Redux**. Currently exploring the intersection of web development with **Data Science**, **Machine Learning**, and **AI** to build intelligent, data-driven solutions.
 
 ---
 
@@ -137,9 +137,10 @@ I'm a results-oriented Full Stack Developer with **5+ years of experience** buil
 
 ## 📝 Publications
 
-- **An Innovative Machine Learning Pipeline for Stroke Prediction on Imbalanced Data** – [Paper Link](https://example.com)
-- **Dry Food Classification using Hybrid Deep Transfer Learning** – [Paper Link](https://example.com)
-- **An Efficient Deep CNN-based Approach for Tomato Leaf Disease Detection** – [Paper Link](https://example.com)
+- **An Innovative Machine Learning Pipeline for Stroke Prediction on Imbalanced Data** – [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10303319)
+- **Dry Food Classification using Hybrid Deep Transfer Learning** – [IEEE Xplore](https://ieeexplore.ieee.org/document/10441650)
+- **Money Laundering and Fraud Transactions Analysis of Mobile Banking in Bangladesh using Machine Learning** – [Paper Link](http://103.15.140.189/handle/123456789/152)
+- **An Efficient Deep CNN-based Approach for Tomato Leaf Disease Detection and Classification** – *(Under Review)*
 
 ---
 
@@ -156,8 +157,12 @@ I'm a results-oriented Full Stack Developer with **5+ years of experience** buil
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakilahmedraju&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilahmedraju&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shakilahmedraju&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilahmedraju&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedraju&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
 ---
