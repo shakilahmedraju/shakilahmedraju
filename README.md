@@ -1,17 +1,176 @@
-<h1 align="center">Hi 👋, I'm Shakil Ahmed Raju</h1>
-<h3 align="center">A passionate Django developer from Bangladesh</h3>
+# Shakil Ahmed Raju
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakilahmedraju&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedraju" /> </p>
+**Driven Full Stack Developer** | Python & JavaScript Expert | AI/ML Enthusiast
 
-<h3 align="left">Connect with me:</h3>
+[![GitHub followers](https://img.shields.io/github/followers/shakilahmedraju?style=social)](https://github.com/shakilahmedraju)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shakilahmedraju)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel)](https://shakilahmedraju.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:shakilahmedraju@gmail.com)
+
+---
+
+## 🚀 About Me
+
+I'm a results-oriented Full Stack Developer with **5+ years of experience** building scalable web applications and robust API ecosystems. I combine deep backend expertise in **Django** and **FastAPI** with modern frontend development using **React** and **Redux**. Currently exploring the intersection of web development with **Data Science**, **Machine Learning**, and **AI** to build intelligent, data-driven solutions.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Frameworks
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Databases & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakilahmedraju&show_icons=true&locale=en&layout=compact" alt="shakilahmedraju" /></p>
+### Tools & Technologies
+- **Backend**: Django REST Framework, Celery, JWT, WebSockets
+- **Frontend**: Zustand, Bootstrap, Tailwind CSS
+- **DevOps**: Git, GitHub Actions, Docker
+- **Specialized**: API Development, Microservices, Real-time Applications
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakilahmedraju&show_icons=true&locale=en" alt="shakilahmedraju" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedraju&" alt="shakilahmedraju" /></p>
+## 💼 Experience
+
+### **HS Digital Solutions** | Backend Developer
+*Mirpur, Dhaka* | *Jan 2025 - Present*
+
+- Architecting scalable backend systems with Django, DRF, and JWT authentication
+- Building robust REST APIs enabling seamless frontend and third-party integrations
+- Implementing Redis caching and Celery for async task processing
+
+### **Insidepth Software Solutions** | Backend Developer (Remote)
+*Narayanganj, Dhaka* | *Feb 2024 - Dec 2024*
+
+- Developed full-stack applications using Django and React.js with optimized performance
+- Designed and implemented REST APIs for enterprise-level solutions
+- Collaborated with cross-functional teams in agile environment
+
+### **International Center for Global Skills** | Python Trainer
+*Tejgaon, Dhaka* | *Dec 2023 - Feb 2024*
+
+- Conducted Sheikh Russel Digital Lab Python Programming Training 2023
+- Delivered hands-on curriculum, fostering problem-solving and project development
+- Enhanced technical communication and presentation skills
+
+---
+
+## 🏆 Featured Projects
+
+### **[FabricTech](https://fabrictechs.com/)** – Textile Community Platform
+*React JS • Django • DRF • PostgreSQL • JWT • Redis • Celery*
+
+- Built B2B textile platform with JWT authentication and multi-role access
+- Social feeds with posts, comments, polls, and industry groups
+- Product catalogs, Q&A system, blogs, courses, and events
+- Admin dashboard with analytics and activity tracking
+
+### **Restaurant POS Web Application**
+*React JS • Redux • Django • DRF • JWT*
+
+- Full-featured POS with item management, variants, and inventory tracking
+- Customer memberships, multi-branch management, and barcode scanning
+- Real-time dashboard analytics and monthly sales reporting
+
+### **ChatApp** – Real-time Chat SaaS
+*React JS • FastAPI • WebSocket*
+
+- SaaS-based real-time chat solution for businesses
+- One-to-one live chat with cross-domain customer support integration
+- Staff ticket picking system and admin monitoring dashboard
+
+### **School Management System**
+*React JS • Django • DRF • JWT*
+
+- Role-based system with multi-role dashboards (admin, student, teacher)
+- Academic management, attendance, assignments, and exam results
+- Multi-branch school settings and invoice management
+
+### **Grocery Web Application**
+*React JS • Redux • Django • DRF • JWT*
+
+- Grocery store with multi-filter search and delivery scheduling
+- Loyalty rewards, customer memberships, and inventory management
+- Nested categories and role-based access control
+
+### **Multivendor eCommerce Web Application**
+*React JS • Django • DRF • JWT*
+
+- Multi-payment gateways (PayPal, Stripe, credit/debit)
+- Vendor dashboard and admin management
+- Advanced product search, pagination, filtering, and rating & review system
+
+### **Learning Management System (LMS)**
+*React JS • Django • DRF • JWT*
+
+- Interactive LMS with JWT authentication and role-based access
+- Course management, instructor dashboard, and secure payments
+
+### **Real Estate Web Application**
+*React JS • Django • DRF*
+
+- Full-stack real estate app with property search and listings
+- User authentication and total listings overview
+
+---
+
+## 📚 Education
+
+**Bangladesh University of Business and Technology**
+*BSc in Computer Science & Engineering* | CGPA: 3.31
+
+---
+
+## 📝 Publications
+
+- **An Innovative Machine Learning Pipeline for Stroke Prediction on Imbalanced Data** – [Paper Link](https://example.com)
+- **Dry Food Classification using Hybrid Deep Transfer Learning** – [Paper Link](https://example.com)
+- **An Efficient Deep CNN-based Approach for Tomato Leaf Disease Detection** – [Paper Link](https://example.com)
+
+---
+
+## 🎯 Areas of Interest
+
+- Data Science & Machine Learning
+- Deep Learning & Neural Networks
+- Generative AI & NLP
+- Computer Vision
+- System Architecture & Scalability
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakilahmedraju&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilahmedraju&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaboration, interesting projects, and knowledge sharing. Feel free to reach out!
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakilahmedraju)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakilahmedraju)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shakilahmedraju)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shakilahmedraju.com)
+
+---
+
+> 💡 *"Building scalable solutions, one line of code at a time."*
