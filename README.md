@@ -47,7 +47,7 @@ I'm a results-oriented Full Stack Developer with **3+ years of experience** buil
 ## 💼 Experience
 
 ### **HS Digital Solutions** | Backend Developer
-*Mirpur, Dhaka* | *Jan 2025 - Present*
+*Tongi, Gazipur* | *Jan 2025 - Present*
 
 - Architecting scalable backend systems with Django, DRF, and JWT authentication
 - Building robust REST APIs enabling seamless frontend and third-party integrations
